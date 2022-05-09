@@ -1,6 +1,7 @@
 # Assignment 4
 
-It introduces students to PyTorch for the purpose of developing complete CNNs.
+It introduces students to PyTorch for the purpose of developing complete CNNs. The assignment revolves around developing an image classification
+network.
 
 # Instructions
 
@@ -26,7 +27,7 @@ them. To do so, you need:
    2) Understand the role of gradient descent.
    3) Learn a little bit about the types of gradient descent algorithms like SGD and Adam.
    4) Complete the provided class template "algo_train.py"
-4) Develop main project script to combine scriptss and get your network trained
+4) Develop main project script to combine scriptss and get your network trained. Use the provided script "main.py" to do so.
 
 
 # CIFAR-10 Raw Data Structure
