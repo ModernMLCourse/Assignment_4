@@ -51,4 +51,4 @@ Assignment_4/
      . 
      etc
 ```
-Notice how the data files are organized inside a direector named "cifar-10-batches-py" inside the parent directory "Assignment_4." Feel free you call your parent directory any name.
+Notice how the data files are organized inside a directory named "cifar-10-batches-py" inside the parent directory "Assignment_4." Feel free you call your parent directory any name.
