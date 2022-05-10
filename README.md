@@ -32,7 +32,7 @@ them. To do so, you need to:
 
 # CIFAR-10 Raw Data Structure
 
-Your directory after extrcation should look like this
+Your assignment directory after extrcating the data should look like this:
 ```
 Assignment_4/
    main.py
@@ -51,4 +51,4 @@ Assignment_4/
      . 
      etc
 ```
-
+Notice how the data files are organized inside a direector named "cifar-10-batches-py" inside the parent directory "Assignment_4." Feel free you call your parent directory any name.
