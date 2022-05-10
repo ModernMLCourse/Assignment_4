@@ -8,7 +8,7 @@ network.
 You are expected to develop a CNN and train it on the popular CIFAR dataset ([website](https://www.cs.toronto.edu/~kriz/cifar.html)) in this assignment.
 You should start by doing the following:
 
-1) Make sure you download the CIFAR-10 dataset.
+1) Make sure you download the Python version of the CIFAR-10 dataset.
 2) Extract dataset in a folder named "cifar-10-batches-py"--- see section below for data structure
 3) Run the script get_data.py to create the .mat files for training and validation data
 4) Run the script utils.py to compute and save image sstatistics.
