@@ -14,15 +14,15 @@ You should start by doing the following:
 4) Run the script utils.py to compute and save image sstatistics.
 
 Now, that the dataset is ready, start developing and training your network by making sure you do the following:
-1) Develop Python script for network construction. To do so you need:
+1) Develop a Python script for network construction. To do so you need to:
    1) Understand CNNs.
    2) Understand the functions implement by each layer, i.e., convolution, linear combiner, ReLU,...etc.
    3) Complete the provided script template "build_net.py"
 2) Develop a data feeding class that could be used to efficiently fetch data pairs for neural network training and validation and batch
-them. To do so, you need:
+them. To do so, you need to:
    1) Understand mini-batch training.
    2) Complete the provide template script "data_feed.py"
-3) Develop a supervised training function. To do so, you need:
+3) Develop a supervised training function. To do so, you need to:
    1) Understand how iterative training works.
    2) Understand the role of gradient descent.
    3) Learn a little bit about the types of gradient descent algorithms like SGD and Adam.
@@ -34,14 +34,21 @@ them. To do so, you need:
 
 Your directory after extrcation should look like this
 ```
-cifar-10-batches-py
-  |
-  |_ data_batch_1
-  |_ data_batch_2
-  |_ data_batch_3
-  .
-  .
-  . 
-  etc
+Assignment_4/
+   main.py
+   build_net.py
+   algo_train.py
+   data_feed.py
+   get_data.py
+   utils.py
+   cifar-10-batches-py/
+     |
+     |_ data_batch_1
+     |_ data_batch_2
+     |_ data_batch_3
+     .
+     .
+     . 
+     etc
 ```
 
